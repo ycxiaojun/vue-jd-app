@@ -2,7 +2,7 @@
 
 > 多快好省，购物上京东！ 模仿京东app
 
-![](/static/img/README_img.png)<br>
+![](/static/README_img.png)<br>
 ## Build Setup
 
 ``` bash
