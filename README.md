@@ -1,7 +1,7 @@
-# my-app
+# vue-jd-app
 
-> A Vue.js project
-
+> 多快好省，购物上京东！ 模仿京东app
+![image](/static/Screenshot_2018-05-16-13-40-10.png)
 ## Build Setup
 
 ``` bash
