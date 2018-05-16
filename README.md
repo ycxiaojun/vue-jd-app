@@ -1,7 +1,13 @@
 # vue-jd-app
 
 > 多快好省，购物上京东！ 模仿京东app
-![image](/static/Screenshot_2018-05-16-13-40-10.png)
+![image](/static/index-1.png)
+![image](/static/index-2.png)
+![image](/static/catagory.png)
+![image](/static/productList.png)
+![image](/static/product.png)
+![image](/static/cart.png)
+![image](/static/login.png)
 ## Build Setup
 
 ``` bash
