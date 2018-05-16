@@ -2,13 +2,7 @@
 
 > 多快好省，购物上京东！ 模仿京东app
 
-<img src="/static/index-1.png" width="25%" height="auto" style="float: left;">
-<img src="/static/index-2.png" width="25%" height="auto" style="float: left;">
-<img src="/static/catagory.png" width="25%" height="auto" style="float: left;">
-<img src="/static/productList.png" width="25%" height="auto" style="float: left;">
-<img src="/static/product.png" width="25%" height="auto" style="float: left;">
-<img src="/static/cart.png" width="25%" height="auto" style="float: left;">
-<img src="/static/login.png" width="25%" height="auto" style="float: left;">
+![](/static/img/README_img.png)<br>
 ## Build Setup
 
 ``` bash
