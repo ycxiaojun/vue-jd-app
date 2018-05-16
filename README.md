@@ -8,6 +8,7 @@
 ![image](/static/product.png)
 ![image](/static/cart.png)
 ![image](/static/login.png)
+<img src="/static/index-1.png" width="50%" height="50%">
 ## Build Setup
 
 ``` bash
